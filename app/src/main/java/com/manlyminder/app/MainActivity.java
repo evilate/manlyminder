@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
                         "Alma",
                         "Child",
                         makeDate(2020, Calendar.JANUARY, 18),
-                        "Likes drawing."
+                        "Likes drawing stuff."
                 )
         );
 
